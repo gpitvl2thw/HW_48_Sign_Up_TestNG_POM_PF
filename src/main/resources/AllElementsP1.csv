@@ -1,0 +1,11 @@
+!#
+id_fname!#input!#qwer
+id_lname!#input!#qwer
+id_email!#input!#qwer@qwer.qwer
+id_phone!#input!#1231231212
+id_g_radio_01!#radio!#true
+id_g_radio_02!#radio!#false
+id_state!#input!#California
+id_checkbox!#checkbox!#true
+id_reset_button!#button!#false
+id_submit_button!#button!#true

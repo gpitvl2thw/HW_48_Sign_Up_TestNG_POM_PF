@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+	<test name="Test">
+		<classes>
+			<class name="core.No001_11CheckUrlToS2DTest" />
+			<class name="core.No002_12CheckUrlFalseToS2DTest" />
+			<class name="core.No003_21CheckTitleToS2DTest" />
+			<class name="core.No004_22CheckTitleFalseToS2DTest" />
+			<class name="core.No005CheckAmountAllElementsTest" />
+			<class name="core.No006CheckDisplayedlElementsTest" />
+			<class name="core.No007CheckTableSTest" />
+			<class name="core.No008CheckTable2Test" />
+			<class name="core.No009CheckTable4Test" />
+			<class name="core.No010CheckTable3Test" />
+			<class name="core.No011_11CheckUrlToS2DP2Test" />
+			<class name="core.No012_12CheckUrlFalseToS2DP2Test" />
+			<class name="core.No013_21CheckTitleToS2DP2Test" />
+			<class name="core.No014_22CheckTitleFalseToS2DP2Test" />
+			<class name="core.No015CheckAmountAllElementsP2Test" />
+			<class name="core.No016CheckDisplayedlElementsP2Test" />
+			<class name="core.No017CheckTableSP2Test" />
+			<class name="core.No019CheckTable4P2Test" />
+			<class name="core.No020CheckTable3P2Test" />
+			<class name="core.No021PushResetTitleTest" />
+			<class name="core.No022PushResetElementSTest" />
+			<class name="core.No023PushSubmitTitleTest" />
+			<class name="core.No024PushSubmitElementSTest" />
+			<class name="core.No025PushBackTitleTest" />
+			<class name="core.No026PushBackElementSTest" />
+			<class name="core.No027ErrorHandlingTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
